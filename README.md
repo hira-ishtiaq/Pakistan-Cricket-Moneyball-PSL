@@ -15,6 +15,6 @@ Impact Score = (Strike Rate × 0.6) + (Runs × 0.4)
 ## 🛠 Tools Used
 Python, Pandas, Matplotlib
 
-## 📈 Final Visualization
-(Insert your image here)
+
+
 
